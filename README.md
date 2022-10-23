@@ -5,7 +5,7 @@
 
 
 You start with two empty stacks: a and b. You are given a random list of integers via command line arguments.
-*** The purpose of this project is to create sorting algorithm, sorting algorithm using two stacks ***
+``` The purpose of this project is to create sorting algorithm, sorting algorithm using two stacks ```
 
 Only these moves are allowed:
 
